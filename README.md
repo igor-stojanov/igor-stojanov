@@ -6,6 +6,8 @@
 - ⚡ I love to play guitar and sing
 - 📫 How to reach me stojanovigor99@hotmail.com
 
+##
+
 <div align="center">
   <a href="https://github.com/igor-stojanov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-stojanov&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
