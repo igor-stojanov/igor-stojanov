@@ -1,7 +1,7 @@
 # Hi there, I'm Igor Stojanov 👋
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node.js, Deno.js, Expres.js
+- 🌱 I’m currently learning Node.js, Deno.js, Express.js
 - 🚀 I’m looking to collaborate on the projects
 - ⚡ I love to play guitar and sing
 - 📫 How to reach me stojanovigor99@hotmail.com
