@@ -10,9 +10,10 @@
 
 <div align="left">
   <a href="https://github.com/igor-stojanov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-stojanov&show_icons=true&theme=white"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-stojanov&theme=white"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=igor-stojanov&show_icons=true&theme=white"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-stojanov&theme=white"/>
 </div>
+  
 
 ### Languages and Tools:
   
