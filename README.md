@@ -11,6 +11,7 @@
 <div align="left">
   <a href="https://github.com/igor-stojanov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-stojanov&show_icons=true&theme=white"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=igor-stojanov"/>
 </div>
 <div align="left">
   <a href="https://github.com/igor-stojanov">
@@ -42,3 +43,5 @@
   <a href = "mailto:igorstojanov8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:stojanovigor99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/igor-stojanov)
