@@ -1,5 +1,5 @@
 # Hi there, I'm Igor Stojanov 👋
-
+![Profile views](https://gpvc.arturio.dev/igor-stojanov)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Node.js, Deno.js, Express.js
 - 🚀 I’m looking to collaborate on the projects
@@ -44,4 +44,4 @@
   <a href = "mailto:stojanovigor99@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/igor-stojanov)
+
