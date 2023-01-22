@@ -1,7 +1,7 @@
 # Hi there, I'm Igor Stojanov 👋
 ![Profile views](https://gpvc.arturio.dev/igor-stojanov)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node.js, Deno.js, Express.js
+- 🌱 I’m currently learning JavaScript, React.js, TypeScript, Node.js
 - 🚀 I’m looking to collaborate on the projects
 - ⚡ I love palying the guitar and singing
 - 📫 How to reach me stojanovigor99@hotmail.com
